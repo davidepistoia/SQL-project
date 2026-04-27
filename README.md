@@ -1,6 +1,3 @@
-📊 Risultati e Presentazione
-Puoi consultare il report completo con i grafici e le analisi dettagliate qui: 
-👉 [Scarica il Report PDF (Analisi Sviluppo Sostenibile)](./SQL project.pdf)
 
 📌 Project Description
 This project analyzes global progress toward sustainable development using 2023 data. The objective is to provide a comparative report across various countries, focusing on economics, demographics, and CO₂ emissions, to support a non-profit organization in defining intervention priorities.
